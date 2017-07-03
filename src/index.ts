@@ -1,0 +1,1 @@
+export { WebdriveioClient } from "./lib/webdriverio-client"
