@@ -1,0 +1,1 @@
+This repo contains example to get started with webdriverio in nodejs.

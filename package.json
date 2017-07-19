@@ -19,9 +19,7 @@
   "author": "Vikas Gautam <v33vikasgautam@gmail.com> (http://mytrikks.blogspot.com)",
   "license": "MIT",
   "dependencies": {
-    "@types/request": "latest",
-    "@types/webdriverio": "^4.8.0",
-    "request": "latest",
+    "@types/webdriverio": "^4.8.1",
     "typescript": "latest",
     "webdriverio": "latest"
   }
